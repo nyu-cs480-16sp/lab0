@@ -3,14 +3,16 @@
 //
 // For NYU CS480 lab 0
 //
+// Dev A: Consistency is better!
+//
 
 #include <stdio.h>
 
 int main(int argc, char **argv) {
 
-  printf("a\n");
+  printf("A\n");
   printf("B\n");
-  printf("3\n");
+  printf("C\n");
 
 }
 
