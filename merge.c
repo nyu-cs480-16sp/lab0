@@ -11,6 +11,7 @@ int main(int argc, char **argv) {
   printf("a\n");
   printf("B\n");
   printf("3\n");
+  printf("4\n");
 
 }
 
